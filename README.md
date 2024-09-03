@@ -63,8 +63,7 @@
 
 
 # Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Collins-Rop&theme=radical)](https://github.com/Collins-Rop/github-readme-stats)
-
+[![Collins-Rop](https://github-readme-stats.vercel.app/api?username=Collins-Rop&show_icons=true&theme=radical)](https://github.com/Collins-Rop/github-readme-stats)
 
 
 <!--
