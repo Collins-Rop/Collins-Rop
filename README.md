@@ -5,6 +5,7 @@
 - 💻 Technologies: React, JavaScript, Java, Spring Boot, Python, Django, Tailwind CSS
 - 🌱 I excel in my craft and continuously strive for excellence!
 - 📫 Contact me: colinrop68@gmail.com
+-    LinkedIn: https://www.linkedin.com/in/collins-rop-75743a195/
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
