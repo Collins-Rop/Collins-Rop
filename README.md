@@ -60,10 +60,11 @@
 </div>
 
 
-
+<!--
 # Stats
 [![Collins-Rop](https://github-readme-stats.vercel.app/api?username=Collins-Rop&show_icons=true&theme=radical)](https://github.com/Collins-Rop/github-readme-stats)
 
+-->
 
 <!--
 **Collins-Rop/Collins-Rop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
