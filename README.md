@@ -1,11 +1,12 @@
 # Hi there 👋
 ## I'm Collins Rop
 
-- 🔭 I’m a Software Developer based in Kenya
-- 💻 Technologies: React, Next.js, JavaScript, Java, Spring Boot, Python, Django, Tailwind CSS
+- 🔭 I’m a Software Developer based in Nairobi,Kenya
+- 💻 Technologies: React, Next.js, JavaScript, Java, Spring Boot, Python, FastAPI, Django, Tailwind CSS
 - 🌱 I excel in my craft and continuously strive for excellence!
 - 📫 Contact me: colinrop68@gmail.com
 - 📫 LinkedIn: https://www.linkedin.com/in/collins-rop-75743a195/
+- 📫 Portfolio: https://collins-rop.github.io/
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
