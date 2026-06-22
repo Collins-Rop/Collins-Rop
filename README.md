@@ -2,7 +2,7 @@
 ## I'm Collins Rop
 
 - 🔭 I’m a Software Developer based in Nairobi,Kenya
-- 💻 Technologies: React, Next.js, JavaScript, Java, Spring Boot, Python, FastAPI, Django, Tailwind CSS
+- 💻 Technologies: React, Next.js, JavaScript, Java, Spring Boot, R, Python, FastAPI, Django, Tailwind CSS
 - 🌱 I excel in my craft and continuously strive for excellence!
 - 📫 Contact me: colinrop68@gmail.com
 - 📫 LinkedIn: https://www.linkedin.com/in/collins-rop-75743a195/
@@ -25,6 +25,7 @@
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="60">
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="60">
+  <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" width="60" alt="R Logo">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="60">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60">
